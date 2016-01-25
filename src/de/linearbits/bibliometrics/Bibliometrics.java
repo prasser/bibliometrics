@@ -120,7 +120,7 @@ public class Bibliometrics {
      * @return
      * @throws IOException
      */
-    public double getImpactFactorOfConference(ElementConference conference, int year) throws IOException {
+    public double getImpactFactor(ElementConference conference, int year) throws IOException {
 
         checkYear(year);
         int year1 = year - 2;
@@ -147,7 +147,7 @@ public class Bibliometrics {
      * @return
      * @throws IOException
      */
-    public double getImpactFactorOfJournal(ElementJournal journal, int year) throws IOException {
+    public double getImpactFactor(ElementJournal journal, int year) throws IOException {
 
         checkYear(year);
 
