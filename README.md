@@ -21,14 +21,14 @@ Impact factors for the Journal of the American Medical Informatics Association (
 and BMC Medical Informatics and Decision Making are taken from Thomson Reuters/ISI. The impact factor for Transactions on Data Privacy
 (TDP) is based on the Scimagojr corpus. 
 
-[![Result-1](https://raw.github.com/prasser/biblliometrics/master/img/img1.png)](https://raw.github.com/prasser/biblliometrics/master/img/img1.png)
+[![Result-1](https://raw.github.com/prasser/bibliometrics/master/img/img1.png)](https://raw.github.com/prasser/biblliometrics/master/img/img1.png)
 
 The following figure shows some impact factors for conference proceedings, specifically for the International Conference on Data Engineering
 (ICDE), the International Conference on Very Large Data Bases (VLDB), the International Conference on Extending Database Technology (EDBT),
 the International Conference on Privacy, Security, Risk and Trust (PASSAT) and the International Symposium on Computer-Based Medical Systems (CBMS).
 The data for PASSAT is for 2013, while the data for all other conferences is for 2014.
 
-[![Result-2](https://raw.github.com/prasser/biblliometrics/master/img/img2.png)](https://raw.github.com/prasser/biblliometrics/master/img/img2.png)
+[![Result-2](https://raw.github.com/prasser/bibliometrics/master/img/img2.png)](https://raw.github.com/prasser/biblliometrics/master/img/img2.png)
 
 Setup
 ------
@@ -36,7 +36,7 @@ Download dblp.xml and dblp.dtd from http://dblp.uni-trier.de/xml/ and put them i
 
 Documentation
 ------
-Online documentation can be found [here](https://rawgithub.com/prasser/biblliometrics/master/doc/index.html). 
+Online documentation can be found [here](https://rawgithub.com/prasser/bibliometrics/master/doc/index.html). 
 
 License
 ------
