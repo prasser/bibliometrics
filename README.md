@@ -50,7 +50,7 @@ Download ```dblp.xml``` and ```dblp.dtd``` from http://dblp.uni-trier.de/xml/ an
 
 Documentation
 ------
-Online documentation can be found [here](https://rawgithub.com/prasser/bibliometrics/master/doc/index.html). 
+Online documentation can be found [here](https://rawgithub.com/prasser/bibliometrics/master/doc/). 
 
 License
 ------
