@@ -10,6 +10,20 @@ but it covers much fewer publications. By integrating DBLP and Google Scholar it
 journals using a larger corpus and also to compare them with impact factors of conference proceedings, which are typically 
 not covered by ISI. Because of its use of the DBLP library, this project is limited to evaluating computer science literature.
 
+Example
+------	
+
+```Java
+// Initialize
+Bibliometrics bibliometrics = new Bibliometrics();
+        
+// Search for journal
+ElementJournal JAMIA =  bibliometrics.getJournals("JAMIA").get(0);
+
+// Calculate impact factor        
+bibliometrics.getImpactFactorOfJournal(JAMIA, 2014);
+```
+
 Results
 ------
 
