@@ -46,7 +46,7 @@ The data for PASSAT is for 2013, while the data for all other conferences is for
 
 Setup
 ------
-Download dblp.xml and dblp.dtd from http://dblp.uni-trier.de/xml/ and put them into the data folder.
+Download ```dblp.xml``` and ```dblp.dtd``` from http://dblp.uni-trier.de/xml/ and put them into the data folder.
 
 Documentation
 ------
