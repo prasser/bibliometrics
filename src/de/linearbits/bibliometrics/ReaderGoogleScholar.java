@@ -28,7 +28,7 @@ import org.ccil.cowan.tagsoup.jaxp.SAXParserImpl;
  * @author Fabian Prasser
  *
  */
-public class ReaderGoogleScholar {
+class ReaderGoogleScholar {
     
     /**
      * Reads citation counts

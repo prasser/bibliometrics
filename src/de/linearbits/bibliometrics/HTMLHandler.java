@@ -23,7 +23,7 @@ import org.xml.sax.helpers.DefaultHandler;
  *
  * @author Fabian Prasser
  */
-public abstract class HTMLHandler extends DefaultHandler {
+abstract class HTMLHandler extends DefaultHandler {
 
     /** The builder */
     private StringBuilder sb = new StringBuilder();
