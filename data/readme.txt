@@ -1,0 +1,1 @@
+Download dblp.xml and dblp.dtd from http://dblp.uni-trier.de/xml/ and place them into this folder.
